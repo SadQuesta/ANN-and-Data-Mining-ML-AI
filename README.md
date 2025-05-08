@@ -71,14 +71,14 @@ It explores **how healthcare systems influence life expectancy** using both regr
 
 ## 🧾 Poster Preview
 
-> [📎 Click here to view the full poster (PPTX)](.[ANN-and-Data-Mining-ML-AI/tree/main/DataMining_ANN])
+> [📎 Click here to view the full poster (PPTX)]([https://github.com/SadQuesta/ANN-and-Data-Mining-ML-AI/blob/main/DataMining_ANN/Data-Mining-Poster%20(2).pptx])
 
 ---
 
 ## 👥 Project Info
 
 - **Student**: Mustafa Nafi Uğur  
-- **Supervisor**: Dr. Nesibe Manav Mutlu  
+
 - **Presented**: Data Mining Project Expo – May 30, 2024  
 
 ---
