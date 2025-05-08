@@ -71,7 +71,7 @@ It explores **how healthcare systems influence life expectancy** using both regr
 
 ## 🧾 Poster Preview
 
-> [📎 Click here to view the full poster (PPTX)]([./DataMining_ANN/Data-Mining-Poster%20(2).pptx])
+> [📎 Click here to view the full poster (PPTX)]([../DataMining_ANN/Data-Mining-Poster%20(2).pptx])
 
 ---
 
